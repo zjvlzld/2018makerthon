@@ -1,0 +1,4 @@
+#ifndef MAKERTHON_SERVER_H
+#define MAKERTHON_SERVER_H
+
+#endif // MAKERTHON_SERVER_H
